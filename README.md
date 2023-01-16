@@ -6,9 +6,9 @@ Todo.io will allow users to around the world to add tasks to a shared todo board
 
 ## Step 1 - Copy the repo
 
-Use this repo as the starting point for your project. Forking is disabled, so you will have to clone the repo and upload it to GitHub as you make changes.
+Use this repo as the starting point for your project. Clone and do not fork the repo to your machine and upload your changes to your own repo.
 
-Share the link to your repo when you are ready to submit your challenge!
+Share the link to your repo by email when you are ready to submit your challenge!
 
 ## Step 2 - Build the app
 
