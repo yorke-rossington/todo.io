@@ -2,6 +2,7 @@
   "extends": "@vue/tsconfig/tsconfig.web.json",
   "include": [
     "env.d.ts",
+    "server/events/*",
     "src/**/*",
     "src/**/*.vue"
   ],
@@ -10,9 +11,10 @@
   ],
   "compilerOptions": {
     "composite": true,
-    "baseUrl": "./todo.io",
+    "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@server/*": ["./server/*"]
     }
   }
 }
