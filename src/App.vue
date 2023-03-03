@@ -1,7 +1,0 @@
-<script setup lang="ts">
-import { RouterView } from "vue-router";
-</script>
-
-<template>
-    <RouterView class="text-gray-800" />
-</template>

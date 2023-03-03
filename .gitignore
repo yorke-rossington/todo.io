@@ -29,3 +29,7 @@ coverage
 
 test-results/
 playwright-report/
+
+prisma/postgres-data
+api/prisma/postgres-data
+.vscode

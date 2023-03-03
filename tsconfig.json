@@ -1,14 +1,20 @@
 {
-  "files": [],
-  "references": [
-    {
-      "path": "./tsconfig.config.json"
-    },
-    {
-      "path": "./tsconfig.app.json"
-    },
-    {
-      "path": "./tsconfig.vitest.json"
-    }
-  ]
+    "files": [],
+    "references": [
+        {
+            "path": "./ui/tsconfig.config.json"
+        },
+        {
+            "path": "./ui/tsconfig.app.json"
+        },
+        {
+            "path": "./ui/tsconfig.vitest.json"
+        },
+        {
+            "path": "./e2e/cypress/tsconfig.json"
+        },
+        {
+            "path": "./api/tsconfig.json"
+        }
+    ]
 }

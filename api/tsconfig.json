@@ -1,0 +1,11 @@
+{
+    "include": [
+        "../shared/*",
+        "**/*"
+    ],
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": "./"
+    }
+}

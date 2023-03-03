@@ -9,7 +9,8 @@ module.exports = {
         "eslint:recommended",
         "@vue/eslint-config-typescript",
         "@vue/eslint-config-prettier",
-        "@vue/typescript/recommended"
+        "@vue/typescript/recommended",
+        "plugin:workspaces/recommended"
     ],
     parserOptions: { ecmaVersion: "latest" },
     overrides: [
